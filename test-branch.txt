@@ -1,4 +1,5 @@
 TEST BRANCH (BELAJAR)
 Test Commit 1
 
+Test Non-Ideal Merge 2
 Test Non-Ideal Merge 1 2
